@@ -1,0 +1,25 @@
+html, body, main .container-fluid{
+  background: #246e42 !important;
+}
+
+.random-article a{
+  color: white !important;
+}
+
+.random-article{
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  color: white !important;
+  height: 30px;
+  font-family: 'Anton', sans-serif;
+}
+
+.searching-area{
+  padding: 20px;
+}
+
+.searching-area input{
+  border: 2px #918631 solid;
+  border-radius: 5px;
+}
