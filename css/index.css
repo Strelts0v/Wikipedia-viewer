@@ -2,6 +2,12 @@ html, body, main .container-fluid{
   background: #246e42 !important;
 }
 
+.header{
+  font-family: Gloria Hallelujah;
+  font-size: 47px;
+  color: #ccbe52;
+}
+
 .random-article a{
   color: white !important;
 }
